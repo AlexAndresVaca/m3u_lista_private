@@ -1,0 +1,24 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="http://ucsgrtv.com/television/wp-content/uploads/2017/07/loogo.png" group-title="ECUADOR",UCSG
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/chunklist_w2088301351.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/frGquQc.png" group-title="ECUADOR",Hechos TV
+http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",Teleamazonas
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/otOhIe8.png" group-title="Internacional",RT 
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="ECUADOR",RT
+https://rt-esp-gd.secure2.footprint.net/1102_1600Kb.m3u8
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/c/c0/Emblema_de_TeleSur.png/250px-Emblema_de_TeleSur.png" group-title="Internacional",Telesur
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Televicentro-Ecuador-TVC-en-vivo-Online-218x150.png" group-title="ECUADOR",Noticias 
+http://cdn.fireclip.io/ec/2020/07/01/0bcb2/bccf/el-comercio-tv-primera-edicin-programa-del-01-de-julio-de-2020.mp4
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Televicentro-Ecuador-TVC-en-vivo-Online-218x150.png" group-title="ECUADOR", La mano de Dios
+http://cdn.fireclip.io/ec/2020/06/30/09915/9930/recordamos-la-mano-de-dios-de-maradona.mp4
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Televicentro-Ecuador-TVC-en-vivo-Online-218x150.png" group-title="ECUADOR",Noticias comunidad
+http://cdn.fireclip.io/ec/2020/07/02/0e891/e8e4/tvc-en-la-comunidad-programa-de-2-de-julio-del-2020.mp4
+#EXTINF:-1 tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="ECUADOR",Top Latino 
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w1152531313.m3u8
+#EXTINF:-1 tvg-logo="http://www.unsion.tv/wp-content/uploads/2017/10/UNSION-LOGO-1.png" group-title="ECUADOR",Unsión Tv
+https://vod.livestream.com/5efe4729_2da70440cf4e8b88bc65567c31f627e4b6361582/events/00000000002d7923/f38b2d42-edc6-4e8b-97df-f8d9d888fb90_678.m3u8
